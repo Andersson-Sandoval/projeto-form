@@ -1,0 +1,1 @@
+Esse projeto foi criado dentro de uma aula de introdução a Html e css,e nele colocamos em pratica os conceitos de html basico e dos inputs para a criação de um formulario para captação de informações.
